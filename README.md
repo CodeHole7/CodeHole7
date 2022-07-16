@@ -1,7 +1,13 @@
 ### Hi there 👋
-
+✨ Thank you for visiting my profile ✨
+I'm an experienced web & mobile developer over 6 years.
+I worked on so many project and some companies as well.
+Python, C#, Java, Javascript, Typescript and Dart is my main programming lanugage and know well about swift as well.
+I'm very familiar with those programming language as well as frameworks like Django, Flask, Spring Boot, React, Vue, Node.js, and ASP.NET.
+If you feel like I would be a developer who can give a try on your project, plz don't hesitiate to contact me.
+Thank you so much
 <!--
-**galaxydeve/galaxydeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bigcarrot513/bigcarrot513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

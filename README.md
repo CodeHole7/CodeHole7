@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px; min-height: 100px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+China" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from China." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer." />
 </p>
 
 <!-- About Section -->
@@ -103,18 +103,23 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
+  <img src="assets/gif/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
-  
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="assets/twitter.svg"/></code>
+  <a href="https://join.skype.com/invite/vK5x86V7SlqU" target="_blank" style='margin: 30px 10px;'>
+    <code><img height="60" width="60" src="assets/icons/skype.png"/></code>
   </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="assets/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
+  <a href="https://discord.gg/yHHm8u4f" target="_blank" style='margin: 30px 10px;'>
+    <code><img height="60" width="60" src="assets/icons/discord.png"/></code>
+  </a>
+  <a href="mailto:galaxyaio@hotmail.com" target="_blank" style='margin: 30px 10px;'>
+    <code><img height="60" width="60" src="assets/icons/email.png"/></code>
+  </a>
+  <a href="mailto:galaxyaio96@gmail.com" target="_blank" style='margin: 30px 10px;'>
+    <code><img height="60" width="60" src="assets/icons/gmail.png"/></code>
+  </a>
 </p>
 <br/>
 

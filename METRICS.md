@@ -12,16 +12,16 @@
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/tickets.svg">](#)
 
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/stargazers.svg">][git-stars]
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/blog-posts.svg">][blog]
+<!-- [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/blog-posts.svg">][blog] -->
 
 [<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/habits.svg">][code-stats]
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/discussions.svg">](#)
 
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/stackoverflow.svg">][stackoverflow]
+<!-- [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/stackoverflow.svg">][stackoverflow] -->
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/gists.svg">][gists]
 
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/wakatime.svg">][code-stats]
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/repositories.svg">][repositories]
+<!-- [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/wakatime.svg">][code-stats] -->
+<!-- [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/repositories.svg">][repositories] -->
 
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/sponsors.svg">][sponsors]
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/people.svg">][followers]

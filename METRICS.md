@@ -38,21 +38,21 @@
 
 
 <!-- Links within repo -->
-[activity]: /RECENT-ACTIVITY.md "Recent Activity"
-[starlist]: /STARRED-REPOS.md "Starred Repos"
+<!-- [activity]: /RECENT-ACTIVITY.md "Recent Activity" -->
+<!-- [starlist]: /STARRED-REPOS.md "Starred Repos" -->
 <!-- Links within GitHub -->
 [gists]: https://gist.github.com/galaxydeve "GitHub Gists - @galaxydeve"
 [sponsors]: https://github.com/sponsors/galaxydeve "GitHub Sponsors - @galaxydeve"
 [followers]: https://github.com/galaxydeve?tab=followers "GitHub Followers - @galaxydeve"
 [repositories]: https://github.com/galaxydeve?tab=repositories&sort=stargazers "GitHub Repos - @galaxydeve"
 <!-- Links to website, blog, social profiles -->
-[website]: https://aliciasykes.com/ "Website - Alicia Sykes"
+<!-- [website]: https://aliciasykes.com/ "Website - Alicia Sykes"
 [blog]: https://notes.aliciasykes.com/ "Blog - Alicia Sykes"
 [twitter]: https://twitter.com/Lissy_Sykes "Twitter - @Lissy_Sykes"
-[stackoverflow]: https://stackoverflow.com/users/979052/galaxydeve "StackOverflow - galaxydeve"
+[stackoverflow]: https://stackoverflow.com/users/979052/galaxydeve "StackOverflow - galaxydeve" -->
 <!-- Links to code statistsics sites -->
-[code-stats]: https://codestats.net/users/alicia "Code Stats - Alicia"
+<!-- [code-stats]: https://codestats.net/users/alicia "Code Stats - Alicia"
 [git-stars]: https://gitstar-ranking.com/galaxydeve "Git Star Ranking - galaxydeve"
 [achievements]: https://profile.codersrank.io/user/galaxydeve "Codersrank - galaxydeve"
 [language-stats]: https://sourcerer.io/galaxydeve "Sourcerer - galaxydeve"
-[activity]: https://hacknical.com/galaxydeve/github "Hacknical - galaxydeve"
+[activity]: https://hacknical.com/galaxydeve/github "Hacknical - galaxydeve" -->

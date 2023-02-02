@@ -101,6 +101,22 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 <a href="https://gitstar-ranking.com/galaxydeve" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/github-snake.svg" /></a>
 </p>
 
+<h1>
+  Connect With Me
+  <img src="GIF/Handshake.gif" height="25px">
+</h1>
+
+<p align="center">
+  <br>
+  
+  <a href="https://twitter.com/JayantGoel001" target="_blank">
+    <code><img height="60" width="60" src="assets/twitter.svg"/></code>
+  </a>
+  <a href="https://dev.to/jayantgoel001">
+    <code><img src="assets/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+  </a>     
+</p>
+<br/>
 
 <div align="center">
 

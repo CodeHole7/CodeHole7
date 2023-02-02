@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/sponsors.svg
           committer_message: "📊 Updates metrics - sponsors"
           # Options
@@ -39,10 +39,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/contributions.svg
           committer_message: "📊 Updates metrics - contributions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           template: classic
           base: ""
@@ -58,10 +58,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/tickets.svg
           committer_message: "📊 Updates metrics - tickets"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_followup: yes
@@ -76,7 +76,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/habits.svg
           committer_message: "📊 Updates metrics - habbits"
           user: galaxydeve
@@ -98,10 +98,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/stargazers.svg
           committer_message: "📊 Updates metrics - stargazers"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_stargazers: yes
@@ -115,10 +115,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/activity.svg
           committer_message: "📊 Updates metrics - activity"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_activity: yes
@@ -134,10 +134,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/reactions.svg
           committer_message: "📊 Updates metrics - reactions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_reactions: yes
@@ -156,9 +156,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           committer_message: "📊 Updates metrics - people"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           filename: assets/metrics/people.svg
           user: galaxydeve
           base: ""
@@ -174,10 +174,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/languages.svg
           committer_message: "📊 Updates metrics - languages"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_languages: yes
@@ -197,10 +197,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/achievements.svg
           committer_message: "📊 Updates metrics - acheivments"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_achievements: yes
@@ -215,10 +215,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/notable.svg
           committer_message: "📊 Updates metrics - notable contribs"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_notable: yes
@@ -235,10 +235,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/discussions.svg
           committer_message: "📊 Updates metrics - discussions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_discussions: yes
@@ -252,10 +252,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/gists.svg
           committer_message: "📊 Updates metrics - gists"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_gists: yes                 
@@ -268,10 +268,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/starlists.svg
           committer_message: "📊 Updates metrics - starlists"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_starlists: yes
@@ -287,10 +287,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/intro.svg
           committer_message: "📊 Updates metrics - intro"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_introduction: yes  
@@ -303,10 +303,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/repositories.svg
           committer_message: "📊 Updates metrics - repositories"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_repositories: yes
@@ -322,10 +322,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/topics.svg
           committer_message: "📊 Updates metrics - topics"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
           plugin_topics: yes
@@ -342,10 +342,10 @@ jobs:
         with:
           filename: assets/metrics/stackoverflow.svg
           committer_message: "📊 Updates metrics - stackoverflow"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 979052
           plugin_stackoverflow_sections: answers-top
@@ -361,10 +361,10 @@ jobs:
         with:
           filename: assets/metrics/twitter.svg
           committer_message: "📊 Updates metrics - twitter"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
@@ -381,10 +381,10 @@ jobs:
         with:
           filename: assets/metrics/blog-posts.svg
           committer_message: "📊 Updates metrics - blog"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           plugin_rss: yes
           plugin_rss_source: https://notes.aliciasykes.com/feed
           plugin_rss_limit: 8
@@ -399,10 +399,10 @@ jobs:
         with:
           filename: assets/metrics/wakatime.svg
           committer_message: "📊 Updates metrics - wakatime"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           base: ""
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_user: liss
@@ -416,10 +416,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/all.svg
           committer_message: "📊 Updates metrics - all"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           # Options
           user: galaxydeve
           template: classic
@@ -469,10 +469,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics/summary.svg
           committer_message: "📊 Updates metrics - summary"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: galaxydeve
           template: classic
           base: activity, community, repositories

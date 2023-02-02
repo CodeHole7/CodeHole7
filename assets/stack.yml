@@ -1,0 +1,13 @@
+- name: Node.js
+  logo: nodedotjs
+  url: 'https://nodejs.org/'
+  color: '#339933'
+  projects:
+    - url: 'https://github.com/galaxydeve/React.js-Login-Form'
+    
+- name: Python
+  logo: python
+  url: 'https://www.python.org/'
+  color: '#3C78A9'
+  projects:
+    - url: 'https://github.com/galaxydeve/knapsack-algorithm-python'

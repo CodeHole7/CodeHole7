@@ -15,7 +15,7 @@ jobs:
           USERNAME: ${{ github.repository_owner || 'GalaxyDeve' }}
       - name: Commit & Push
         run: |
-          git config user.name galaxy-bot
+          git config user.name galaxydeve
           git config user.email devphs513@gmail.com
           git add -A .
           git commit -m "💠 Updtaes 3D contribution pattern"

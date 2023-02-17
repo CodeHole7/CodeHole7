@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-
+1. 🎉 Merged PR [#154](https://github.com/Lissy93/awesome-privacy/pull/154) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 <!--END_SECTION:activity-->

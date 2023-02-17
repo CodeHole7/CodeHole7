@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/galaxydeve/galaxydeve/issues/1) in [galaxydeve/galaxydeve](https://github.com/galaxydeve/galaxydeve)
+1. 🗣 Commented on [#1](https://github.com/galaxydeve/galaxydeve/issues/1) in [galaxydeve/galaxydeve](https://github.com/galaxydeve/galaxydeve)
 <!--END_SECTION:activity-->

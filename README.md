@@ -96,6 +96,25 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 </p>
 </details>
 
+
+<!-- Recent Activity -->
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+            
+<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=galaxydeve' alt='Astro Dab'></a>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+➡️  **[More Activity](/RECENT-ACTIVITY.md)**
+
+----
+
+</p>
+</details>
+
 <!-- Snek -->   
 <p align="center">
 <a href="https://gitstar-ranking.com/galaxydeve" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/github-snake.svg" /></a>

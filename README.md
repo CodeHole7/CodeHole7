@@ -23,10 +23,12 @@
 ✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Web/Mobile developer with over 7 years of experience.
 
 I'm a senior software engineer based in Beijing, China. And I love writing code!
-  
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
-I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
+I’m industrious, hard-working, an excellent team worker and collaborator, and I can easily prioritize tasks to ensure my employer’s goals are always achieved. 
+
+I have experience working on time sensitive projects, dealing with difficult challenges, and communicating with customers and clients.
+
+I'm the type of person who always goes above and beyond what is expected, and I will willingly carry out duties outside of my job description.
 
 When I'm not at the keyboard, I like sports, photography and hanging out with friends.
 

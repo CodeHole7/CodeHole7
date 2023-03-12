@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `14`
+Total starred repositories: `13`
 ## Contents
 
   - [Dart](#dart)
@@ -22,15 +22,14 @@ Total starred repositories: `14`
   - [devmaxkyu/devmaxkyu.github.io](https://github.com/devmaxkyu/devmaxkyu.github.io) -  (⭐️1)
   - [pegasus1982/carom-simulator-dist](https://github.com/pegasus1982/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️6)
   - [pegasus1982/threejs-3d-building-configurator](https://github.com/pegasus1982/threejs-3d-building-configurator) - Three.js 3d building configurator based on blueprint3d (⭐️7)
-  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - Three.js 3d room planner & product configurator (⭐️72)
+  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - Three.js 3d room planner & product configurator (⭐️74)
 
 ## JavaScript
 
-  - [devmaxkyu/nbp-app](https://github.com/devmaxkyu/nbp-app) - A simple single-page web application to manage currency exchange rate (⭐️1)
   - [galaxydeve/adyen-payment-encryption](https://github.com/galaxydeve/adyen-payment-encryption) -  \[*MIT License*\] (⭐️2)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2408)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2407)
   - [pegasus1982/3D-sofa-configurator](https://github.com/pegasus1982/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️12)
-  - [pegasus1982/fabricjs-image-editor-origin](https://github.com/pegasus1982/fabricjs-image-editor-origin) - fabric.js HTML5/javascript image editor (⭐️108)
+  - [pegasus1982/fabricjs-image-editor-origin](https://github.com/pegasus1982/fabricjs-image-editor-origin) - fabric.js HTML5/javascript image editor (⭐️109)
 
 ## PHP
 

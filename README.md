@@ -19,7 +19,7 @@
       
 <!-- <blockquote> -->
 
-✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Web/Mobile developer with over 7 years of experience.
+✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Web/Mobile developer with over 8 years of experience.
 
 I'm a senior software engineer based in Beijing, China. And I love writing code!
 
@@ -83,11 +83,11 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
     </a>
   </p>
 </details>
-
+        
 <!-- Metrics -->
 <details>
   <summary><b>📊 Metrics</b></summary>
-    <p>
+    <p>   
 
 | [![General Stats](https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/summary.svg)](https://github.com/galaxydeve/galaxydeve/blob/master/METRICS.md) | [![Stargazer Stats](https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/stargazers.svg)](https://github.com/galaxydeve/galaxydeve/blob/master/METRICS.md) |
 | - | - |
@@ -96,6 +96,23 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 </p>
 </details>
+
+
+<p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxydeve&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=galaxydeve&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br><br> 
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/galaxydeve)
+
+<!-- ![](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
+
+<p align="center">
+  <a>
+    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/>
+    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/right.png">
+  </a>
+</p>
 
 
 <!-- Recent Activity -->

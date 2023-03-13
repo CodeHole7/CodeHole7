@@ -1,10 +1,9 @@
-<!-- <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="Hello World" />
-</p> -->
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=galaxydeve&label=Profile%20views&color=0e75b6&style=flat" alt="galaxydeve" /> </p>
 <h1 align="center">
     Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm HaiQuan(Eddy) Huang
 </h1>
+
+<!-- ![](https://komarev.com/ghpvc/?username=galaxydeve&label=PROFILE+VIEWS) -->
 
 <p align='center' style='margin: 16px 4px 8px; min-height: 100px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer." />

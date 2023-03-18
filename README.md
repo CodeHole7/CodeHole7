@@ -102,7 +102,12 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=galaxydeve&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br><br> 
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/galaxydeve)
+<!-- when organization appears you can change the cloumn number as 8  -->
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=galaxydeve&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
+</p>
+
+<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/galaxydeve) -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
 

@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=galaxydeve&label=Profile%20views&color=0e75b6&style=flat" alt="galaxydeve" /> </p>
-<h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm HaiQuan(Eddy) Huang
+<!-- <h1 align="center">
+    Hi <img src='./assets/wave.gif' height='26' alt='there'> there
 </h1>
-
+ -->
 <!-- ![](https://komarev.com/ghpvc/?username=galaxydeve&label=PROFILE+VIEWS) -->
 
 <p align='center' style='margin: 16px 4px 8px; min-height: 100px;'>

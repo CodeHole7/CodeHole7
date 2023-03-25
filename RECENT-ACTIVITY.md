@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/galaxydeve/galaxydeve/issues/1) in [galaxydeve/galaxydeve](https://github.com/galaxydeve/galaxydeve)
+1. 💪 Opened PR [#11](https://github.com/IfeoluwaDavid/loctineer-booking/pull/11) in [IfeoluwaDavid/loctineer-booking](https://github.com/IfeoluwaDavid/loctineer-booking)
 <!--END_SECTION:activity-->

@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/IfeoluwaDavid/loctineer-booking/issues/11) in [IfeoluwaDavid/loctineer-booking](https://github.com/IfeoluwaDavid/loctineer-booking)
+1. ❗️ Opened issue [#12](https://github.com/IfeoluwaDavid/loctineer-booking/issues/12) in [IfeoluwaDavid/loctineer-booking](https://github.com/IfeoluwaDavid/loctineer-booking)
 <!--END_SECTION:activity-->

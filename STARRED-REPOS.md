@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `13`
+Total starred repositories: `14`
 ## Contents
 
   - [Dart](#dart)
@@ -9,6 +9,7 @@ Total starred repositories: `13`
   - [JavaScript](#javascript)
   - [PHP](#php)
   - [Python](#python)
+  - [TypeScript](#typescript)
 
 
 
@@ -27,9 +28,9 @@ Total starred repositories: `13`
 ## JavaScript
 
   - [galaxydeve/adyen-payment-encryption](https://github.com/galaxydeve/adyen-payment-encryption) -  \[*MIT License*\] (⭐️2)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2417)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2419)
   - [pegasus1982/3D-sofa-configurator](https://github.com/pegasus1982/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️12)
-  - [pegasus1982/fabricjs-image-editor-origin](https://github.com/pegasus1982/fabricjs-image-editor-origin) - fabric.js HTML5/javascript image editor (⭐️115)
+  - [pegasus1982/fabricjs-image-editor-origin](https://github.com/pegasus1982/fabricjs-image-editor-origin) - fabric.js HTML5/javascript image editor (⭐️116)
 
 ## PHP
 
@@ -39,4 +40,8 @@ Total starred repositories: `13`
 
   - [devmaxkyu/phone_number_verify](https://github.com/devmaxkyu/phone_number_verify) - phone number verification code (⭐️1)
   - [devmaxkyu/powerbiApp](https://github.com/devmaxkyu/powerbiApp) - using Power BI REST API, modify datasets (⭐️2)
+
+## TypeScript
+
+  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️261)
 

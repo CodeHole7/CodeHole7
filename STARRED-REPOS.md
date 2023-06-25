@@ -23,7 +23,7 @@ Total starred repositories: `14`
   - [devmaxkyu/devmaxkyu.github.io](https://github.com/devmaxkyu/devmaxkyu.github.io) -  (⭐️1)
   - [pegasus1982/carom-simulator-dist](https://github.com/pegasus1982/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️7)
   - [pegasus1982/threejs-3d-building-configurator](https://github.com/pegasus1982/threejs-3d-building-configurator) - Three.js 3d building configurator based on blueprint3d (⭐️7)
-  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️94)
+  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️99)
 
 ## JavaScript
 
@@ -43,5 +43,5 @@ Total starred repositories: `14`
 
 ## TypeScript
 
-  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️288)
+  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️292)
 

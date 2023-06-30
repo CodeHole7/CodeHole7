@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/IfeoluwaDavid/loctineer-booking/issues/12) in [IfeoluwaDavid/loctineer-booking](https://github.com/IfeoluwaDavid/loctineer-booking)
+1. 🗣 Commented on [#1](https://github.com/galaxydeve/galaxydeve/issues/1) in [galaxydeve/galaxydeve](https://github.com/galaxydeve/galaxydeve)
 <!--END_SECTION:activity-->

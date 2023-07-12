@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/galaxydeve/galaxydeve/issues/1) in [galaxydeve/galaxydeve](https://github.com/galaxydeve/galaxydeve)
+1. 🗣 Commented on [#16250](https://github.com/Expensify/App/issues/16250) in [Expensify/App](https://github.com/Expensify/App)
 <!--END_SECTION:activity-->

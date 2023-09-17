@@ -63,11 +63,14 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 
 <!-- Portfolio Section -->
+<!--
 <details open='true'>
   <summary>
   My Portfolio Website
   </summary>
   <p>
+-->
+      
     <!-- <h3 align='left' style='margin: 16px 4px;'>
         <a href='https://github.com/galaxydeve/portfolio'>Please click here to navigate my portfolio website</a>
     </h3>
@@ -79,9 +82,12 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
     <a href='/#'>
         <img height='300px' src="./assets/portfoliosite.png" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from China." />
     </a>
+
+<!--
   </p>
 </details>
-        
+-->
+
 <!-- Metrics -->
 <details>
   <summary><b>📊 Metrics</b></summary>
@@ -119,23 +125,24 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 
 <!-- Recent Activity -->
+<!--
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
             
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=galaxydeve' alt='Astro Dab'></a>
-
+-->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
+<!--
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
 
 ----
 
 </p>
 </details>
-
+-->
 <!-- Snek -->   
 <p align="center">
 <a href="https://gitstar-ranking.com/galaxydeve" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/github-snake.svg" /></a>

@@ -63,30 +63,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 
 <!-- Portfolio Section -->
-<!--
-<details open='true'>
-  <summary>
-  My Portfolio Website
-  </summary>
-  <p>
--->
-      
-    <!-- <h3 align='left' style='margin: 16px 4px;'>
-        <a href='https://github.com/galaxydeve/portfolio'>Please click here to navigate my portfolio website</a>
-    </h3>
-    <h3 align='left' style='margin: 16px 4px;'>
-        This portfolio website was built with React.js, Next.js and used Contentful as CMS.
-    </h3> -->
-    <h2>Comming Soon</h2>
-    <!-- <a href='https://github.com/galaxydeve/portfolio'> -->
-    <a href='/#'>
-        <img height='300px' src="./assets/portfoliosite.png" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from China." />
-    </a>
 
-<!--
-  </p>
-</details>
--->
 
 <!-- Metrics -->
 <details>

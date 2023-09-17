@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.11bb of code in 4667 edited files across 523 commits</small>
+                <small>estimation from 1.11bb of code in 4690 edited files across 528 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="56.22200291770359" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="56.22200291770359" y="0" width="11.674676049086072" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="67.89667896678966" y="0" width="7.480477130352698" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="75.37715609714236" y="0" width="384.62284390285765" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="56.18704573229562" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="56.18704573229562" y="0" width="11.667417079393667" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="67.85446281168929" y="0" width="7.475825990008791" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="75.33028880169807" y="0" width="384.6697111983019" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -75,8 +75,8 @@
                                 Other
                             </div>
                             <small>
-                                <div>946 lines</div>
-                                <div>38.9 kB</div>
+                                <div>955 lines</div>
+                                <div>39 kB</div>
                             </small>
                         </div>
                     </section>
@@ -86,7 +86,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 25 days</small>
+                  over last 26 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>

@@ -16,21 +16,21 @@ Total starred repositories: `14`
 ## Dart
 
   - [galaxydeve/flutter_inappwebview](https://github.com/galaxydeve/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. \[*Apache License 2.0*\] (⭐️1)
-  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️163)
+  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️165)
 
 ## HTML
 
   - [devmaxkyu/devmaxkyu.github.io](https://github.com/devmaxkyu/devmaxkyu.github.io) -  (⭐️1)
   - [pegasus1982/carom-simulator-dist](https://github.com/pegasus1982/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️8)
   - [pegasus1982/threejs-3d-building-configurator](https://github.com/pegasus1982/threejs-3d-building-configurator) - Three.js 3d building configurator based on blueprint3d (⭐️8)
-  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️125)
+  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️126)
 
 ## JavaScript
 
   - [galaxydeve/adyen-payment-encryption](https://github.com/galaxydeve/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2455)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2456)
   - [pegasus1982/3D-sofa-configurator](https://github.com/pegasus1982/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️15)
-  - [pegasus1982/fabricjs-image-editor-origin](https://github.com/pegasus1982/fabricjs-image-editor-origin) - javascript image editor based on fabric.js (⭐️148)
+  - [pegasus1982/fabricjs-image-editor-origin](https://github.com/pegasus1982/fabricjs-image-editor-origin) - javascript image editor based on fabric.js (⭐️149)
 
 ## PHP
 
@@ -43,5 +43,5 @@ Total starred repositories: `14`
 
 ## TypeScript
 
-  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️333)
+  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️340)
 

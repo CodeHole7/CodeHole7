@@ -94,9 +94,9 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 <p align="center">
   <a>
-    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/left.png">
+    <img height="120" width="150" src="./assets/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/>
-    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/right.png">
+    <img height="120" width="150" src="./assets/right.png">
   </a>
 </p>
 

@@ -8,6 +8,8 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
       - name: Generate Snake
         uses: Platane/snk@master
         with:

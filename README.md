@@ -122,7 +122,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 -->
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/galaxydeve" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/galaxydeve" title="Snek 🐍"><img width="500" src="./github-contribution-grid-snake.svg" /></a>
 </p>
 
 <h1>

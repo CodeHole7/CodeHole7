@@ -8,39 +8,25 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Sutil/snk@master
-        id: snake-gif
+      - name: Checkout Repo
+        uses: actions/checkout@master
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: assets/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          gif_out_path: assets/github-snake.gif
+          svg_out_path: assets/github-snake.svg          
+      # Commit the changes
+      - name: Commit files
+        run: |
+          git config user.email "devphs513@gmail.com"
+          git config user.name "galaxydeve"
+          git add .
+          git commit -m ":snake: Updates Snake Contribution Animation"
+      # Push the changes
+      - name: Push
+        uses: ad-m/github-push-action@master
         with:
-          target_branch: output
-          build_dir: assets
-        env:
-          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
-    # steps:
-    #   - name: Checkout Repo
-    #     uses: actions/checkout@master
-    #   - name: Generate Snake
-    #     uses: Platane/snk@master
-    #     with:
-    #       github_user_name: ${{ github.repository_owner }}
-    #       gif_out_path: assets/github-snake.gif
-    #       svg_out_path: assets/github-snake.svg          
-    #   # Commit the changes
-    #   - name: Commit files
-    #     run: |
-    #       git config user.email "devphs513@gmail.com"
-    #       git config user.name "galaxydeve"
-    #       git add .
-    #       git commit -m ":snake: Updates Snake Contribution Animation"
-    #   # Push the changes
-    #   - name: Push
-    #     uses: ad-m/github-push-action@master
-    #     with:
-    #       github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
-    #       branch: ${{ github.ref }}
+          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          force: true

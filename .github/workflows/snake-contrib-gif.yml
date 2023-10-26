@@ -1,32 +1,61 @@
-# Generates pretty snake animation, using @Platane's awesome snk action
-name: 🐍 Generate Snake Contribution GIF
+# # Generates pretty snake animation, using @Platane's awesome snk action
+# name: 🐍 Generate Snake Contribution GIF
+# on:
+#   workflow_dispatch: # Manual dispatch
+#   schedule:
+#     - cron: '30 23 * * *' # Runs at 23:30 every day.
+# jobs:
+#   snake:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Repo
+#         uses: actions/checkout@master
+#       - name: Generate Snake
+#         uses: Platane/snk@master
+#         with:
+#           github_user_name: ${{ github.repository_owner }}
+#           gif_out_path: assets/github-snake.gif
+#           svg_out_path: assets/github-snake.svg          
+#       # Commit the changes
+#       - name: Commit files
+#         run: |
+#           git config user.email "devphs513@gmail.com"
+#           git config user.name "galaxydeve"
+#           git add .
+#           git commit -m ":snake: Updates Snake Contribution Animation"
+#       # Push the changes
+#       - name: Push
+#         uses: ad-m/github-push-action@master
+#         with:
+#           github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+#           branch: ${{ github.ref }}
+#           force: true
+
+
+name: Generate Snake
+
 on:
-  workflow_dispatch: # Manual dispatch
   schedule:
-    - cron: '30 23 * * *' # Runs at 23:30 every day.
+    - cron: "29 12 * * *"
+  workflow_dispatch:
+
 jobs:
-  snake:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
-      - name: Generate Snake
-        uses: Platane/snk@master
+      # Snake Animation
+      - uses: Platane/snk@main
+        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: assets/github-snake.gif
-          svg_out_path: assets/github-snake.svg          
-      # Commit the changes
-      - name: Commit files
-        run: |
-          git config user.email "devphs513@gmail.com"
-          git config user.name "galaxydeve"
-          git add .
-          git commit -m ":snake: Updates Snake Contribution Animation"
-      # Push the changes
-      - name: Push
-        uses: ad-m/github-push-action@master
+          github_user_name: galaxydeve
+          outputs: dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-          force: true
+          target_branch: master
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}

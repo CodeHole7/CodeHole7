@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16250](https://github.com/Expensify/App/issues/16250) in [Expensify/App](https://github.com/Expensify/App)
+1. ❗️ Closed issue [#5](https://github.com/galaxydeve/carom-simulator-dist/issues/5) in [galaxydeve/carom-simulator-dist](https://github.com/galaxydeve/carom-simulator-dist)
 <!--END_SECTION:activity-->

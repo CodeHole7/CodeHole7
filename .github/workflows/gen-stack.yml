@@ -6,7 +6,9 @@ on:
   push:
     branches: [ master ]
     paths: [ assets/stack.yml ]
-    
+  schedule:
+    - cron: '0 18 * * 3' # At 01:00 on Sunday.
+
 jobs:
   profile_stack:
     runs-on: ubuntu-latest

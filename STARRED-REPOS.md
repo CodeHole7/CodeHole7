@@ -25,13 +25,13 @@ Total starred repositories: `18`
   - [devmaxkyu/devmaxkyu.github.io](https://github.com/devmaxkyu/devmaxkyu.github.io) -  (⭐️1)
   - [galaxydeve/carom-simulator-dist](https://github.com/galaxydeve/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️9)
   - [pegasus1982/threejs-3d-building-configurator](https://github.com/pegasus1982/threejs-3d-building-configurator) - Three.js 3d building configurator based on blueprint3d (⭐️8)
-  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️137)
+  - [pegasus1982/threejs-3d-room-designer](https://github.com/pegasus1982/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️138)
 
 ## JavaScript
 
   - [galaxydeve/adyen-payment-encryption](https://github.com/galaxydeve/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [galaxydeve/company-portfolio-template](https://github.com/galaxydeve/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
-  - [galaxydeve/fabricjs-image-editor-origin](https://github.com/galaxydeve/fabricjs-image-editor-origin) - javascript image editor based on fabric.js (⭐️154)
+  - [galaxydeve/fabricjs-image-editor-origin](https://github.com/galaxydeve/fabricjs-image-editor-origin) - javascript image editor based on fabric.js (⭐️156)
   - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2466)
   - [pegasus1982/3D-sofa-configurator](https://github.com/pegasus1982/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️16)
 
@@ -51,7 +51,7 @@ Total starred repositories: `18`
 ## TypeScript
 
   - [galaxydeve/Igcy-official](https://github.com/galaxydeve/Igcy-official) - React Native project for social app (⭐️1)
-  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️360)
+  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️362)
 
 ## Vue
 

@@ -18,7 +18,7 @@ Total starred repositories: `18`
 ## Dart
 
   - [galaxydeve/flutter_inappwebview](https://github.com/galaxydeve/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. \[*Apache License 2.0*\] (⭐️1)
-  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️174)
+  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️175)
 
 ## HTML
 
@@ -31,8 +31,8 @@ Total starred repositories: `18`
 
   - [galaxydeve/adyen-payment-encryption](https://github.com/galaxydeve/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [galaxydeve/company-portfolio-template](https://github.com/galaxydeve/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
-  - [galaxydeve/fabricjs-image-editor-origin](https://github.com/galaxydeve/fabricjs-image-editor-origin) - javascript image editor based on fabric.js (⭐️167)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2481)
+  - [galaxydeve/fabricjs-image-editor-origin](https://github.com/galaxydeve/fabricjs-image-editor-origin) - javascript image editor based on fabric.js (⭐️169)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2483)
   - [pegasus1982/3D-sofa-configurator](https://github.com/pegasus1982/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️16)
 
 ## PHP
@@ -51,7 +51,7 @@ Total starred repositories: `18`
 ## TypeScript
 
   - [galaxydeve/Igcy-official](https://github.com/galaxydeve/Igcy-official) - React Native project for social app (⭐️1)
-  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️375)
+  - [mondaycom/monday-ui-react-core](https://github.com/mondaycom/monday-ui-react-core) - Official monday.com UI resources for application development in React.js \[*MIT License*\] (⭐️378)
 
 ## Vue
 

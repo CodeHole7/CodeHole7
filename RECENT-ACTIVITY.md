@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/galaxydeve/threejs-3d-room-designer/issues/9) in [galaxydeve/threejs-3d-room-designer](https://github.com/galaxydeve/threejs-3d-room-designer)
+1. ❗️ Closed issue [#8](https://github.com/galaxydeve/threejs-3d-room-designer/issues/8) in [galaxydeve/threejs-3d-room-designer](https://github.com/galaxydeve/threejs-3d-room-designer)
 <!--END_SECTION:activity-->

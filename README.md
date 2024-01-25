@@ -66,7 +66,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 
 <!-- Metrics -->
-<details>
+<!-- <details>
   <summary><b>📊 Metrics</b></summary>
     <p>   
 
@@ -76,29 +76,30 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 **[➡️ More Metrics](/METRICS.md)**
 
 </p>
-</details>
+</details> -->
 
 
-<p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxydeve&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<!-- <p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxydeve&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=galaxydeve&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br>  -->
 
 <!-- when organization appears you can change the cloumn number as 8  -->
-<p align="center">
+<!-- <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=galaxydeve&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
-</p>
+</p> -->
 
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/galaxydeve) -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
 
-<p align="center">
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/> -->
+<!-- <p align="center">
   <a>
     <img height="120" width="150" src="./assets/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=galaxydeve&theme=dark&hide_border=true"/>
     <img height="120" width="150" src="./assets/right.png">
   </a>
-</p>
+</p> -->
 
 
 <!-- Recent Activity -->
@@ -157,8 +158,8 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 <!-- reference https://github.com/Lissy93/Lissy93 -->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
+<!-- | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) | [![React.js-Login-Form](https://img.shields.io/static/v1?label=&message=React.js-Login-Form&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/galaxydeve/React.js-Login-Form) |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![knapsack-algorithm-python](https://img.shields.io/static/v1?label=&message=knapsack-algorithm-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/galaxydeve/knapsack-algorithm-python) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![knapsack-algorithm-python](https://img.shields.io/static/v1?label=&message=knapsack-algorithm-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/galaxydeve/knapsack-algorithm-python) | -->
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->

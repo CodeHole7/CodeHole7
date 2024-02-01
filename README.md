@@ -1,9 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=galaxydeve&label=Profile%20views&color=0e75b6&style=flat" alt="galaxydeve" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=galaxydeve&label=Profile%20views&color=0e75b6&style=flat" alt="CodeHole7" /> </p>
 <!-- <h1 align="center">
     Hi <img src='./assets/wave.gif' height='26' alt='there'> there
 </h1>
  -->
-<!-- ![](https://komarev.com/ghpvc/?username=galaxydeve&label=PROFILE+VIEWS) -->
+<!-- ![](https://komarev.com/ghpvc/?username=CodeHole7&label=PROFILE+VIEWS) -->
 
 <p align='center' style='margin: 16px 4px 8px; min-height: 100px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer." />
@@ -56,7 +56,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 **Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
       
- <!-- See **[➡️ Full Tech Stack](https://github.com/galaxydeve/galaxydeve/blob/master/TECH-STACK.md)**, for a list of projects using each of the above technologies -->
+ <!-- See **[➡️ Full Tech Stack](https://github.com/CodeHole7/CodeHole7/blob/master/TECH-STACK.md)**, for a list of projects using each of the above technologies -->
 ----      
   </p>
 </details>
@@ -70,7 +70,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
   <summary><b>📊 Metrics</b></summary>
     <p>   
 
-| [![General Stats](https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/summary.svg)](https://github.com/galaxydeve/galaxydeve/blob/master/METRICS.md) | [![Stargazer Stats](https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/stargazers.svg)](https://github.com/galaxydeve/galaxydeve/blob/master/METRICS.md) |
+| [![General Stats](https://raw.githubusercontent.com/CodeHole7/CodeHole7/master/assets/metrics/summary.svg)](https://github.com/CodeHole7/CodeHole7/blob/master/METRICS.md) | [![Stargazer Stats](https://raw.githubusercontent.com/CodeHole7/CodeHole7/master/assets/metrics/stargazers.svg)](https://github.com/CodeHole7/CodeHole7/blob/master/METRICS.md) |
 | - | - |
 
 **[➡️ More Metrics](/METRICS.md)**
@@ -79,24 +79,24 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 </details>
 
 
-<p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxydeve&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=galaxydeve&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeHole7&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeHole7&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br><br> 
 
 <!-- when organization appears you can change the cloumn number as 8  -->
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=galaxydeve&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=CodeHole7&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
 </p>
 
-<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/galaxydeve) -->
+<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=CodeHole7&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/CodeHole7) -->
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=CodeHole7&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
 
 <p align="center">
   <a>
     <img height="120" width="150" src="./assets/left.png">
-    <img align="center" src="https://streak-stats.demolab.com?user=galaxydeve&theme=dark&hide_border=true"/>
-    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/> -->
+    <img align="center" src="https://streak-stats.demolab.com?user=CodeHole7&theme=dark&hide_border=true"/>
+    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHole7&theme=dark&hide_border=true"/> -->
     <img height="120" width="150" src="./assets/right.png">
   </a>
 </p>
@@ -108,7 +108,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
             
-<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=galaxydeve' alt='Astro Dab'></a>
+<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=CodeHole7' alt='Astro Dab'></a>
 -->
 <!--START_SECTION:activity-->
 
@@ -123,7 +123,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 -->
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/galaxydeve" title="Snek 🐍"><img width="500" src="./github-contribution-grid-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/CodeHole7" title="Snek 🐍"><img width="500" src="./github-contribution-grid-snake.svg" /></a>
 </p>
 
 <h1>
@@ -163,6 +163,6 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 <!-- | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) | [![React.js-Login-Form](https://img.shields.io/static/v1?label=&message=React.js-Login-Form&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/galaxydeve/React.js-Login-Form) |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![knapsack-algorithm-python](https://img.shields.io/static/v1?label=&message=knapsack-algorithm-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/galaxydeve/knapsack-algorithm-python) | -->
+| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) | [![React.js-Login-Form](https://img.shields.io/static/v1?label=&message=React.js-Login-Form&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/CodeHole7/React.js-Login-Form) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![knapsack-algorithm-python](https://img.shields.io/static/v1?label=&message=knapsack-algorithm-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/CodeHole7/knapsack-algorithm-python) | -->
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->

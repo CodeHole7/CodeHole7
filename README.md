@@ -136,6 +136,9 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
   <a href="https://join.skype.com/invite/vK5x86V7SlqU" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="assets/icons/skype.png"/></code>
   </a>
+  <a href="https://t.me/GalaxyDev1993" target="_blank" style='margin: 30px 10px;'>
+    <code><img height="60" width="60" src="assets/icons/telegram.png"/></code>
+  </a>
   <a href="https://discord.gg/yHHm8u4f" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="assets/icons/discord.png"/></code>
   </a>

@@ -66,7 +66,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 
 <!-- Metrics -->
-<!-- <details>
+<details>
   <summary><b>📊 Metrics</b></summary>
     <p>   
 
@@ -76,30 +76,30 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 **[➡️ More Metrics](/METRICS.md)**
 
 </p>
-</details> -->
+</details>
 
 
-<!-- <p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxydeve&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxydeve&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=galaxydeve&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br>  -->
+<br><br><br><br><br><br><br><br><br> 
 
 <!-- when organization appears you can change the cloumn number as 8  -->
-<!-- <p align="center">
+<p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=galaxydeve&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
-</p> -->
+</p>
 
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/galaxydeve) -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/> -->
-<!-- <p align="center">
+<p align="center">
   <a>
     <img height="120" width="150" src="./assets/left.png">
     <img align="center" src="https://streak-stats.demolab.com?user=galaxydeve&theme=dark&hide_border=true"/>
+    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/> -->
     <img height="120" width="150" src="./assets/right.png">
   </a>
-</p> -->
+</p>
 
 
 <!-- Recent Activity -->

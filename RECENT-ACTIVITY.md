@@ -9,5 +9,5 @@
 />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/CodeHole7/threejs-3d-room-designer/issues/7) in [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer)
+1. ❗️ Closed issue [#6](https://github.com/CodeHole7/fabricjs-image-editor-origin/issues/6) in [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin)
 <!--END_SECTION:activity-->

@@ -139,13 +139,13 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
   <a href="https://t.me/GalaxyDev1993" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="assets/icons/telegram.png"/></code>
   </a>
-  <a href="https://discord.gg/yHHm8u4f" target="_blank" style='margin: 30px 10px;'>
+  <a href="https://discordapp.com/users/733420412146286642" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="assets/icons/discord.png"/></code>
   </a>
-  <a href="mailto:galaxyaio@hotmail.com" target="_blank" style='margin: 30px 10px;'>
+  <a href="mailto:devphs513@hotmail.com" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="assets/icons/email.png"/></code>
   </a>
-  <a href="mailto:galaxyaio96@gmail.com" target="_blank" style='margin: 30px 10px;'>
+  <a href="mailto:devphs513@gmail.com" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="assets/icons/gmail.png"/></code>
   </a>
 </p>

@@ -3,11 +3,11 @@
   url: 'https://nodejs.org/'
   color: '#339933'
   projects:
-    - url: 'https://github.com/galaxydeve/React.js-Login-Form'
+    - url: 'https://github.com/CodeHole7/React.js-Login-Form'
     
 - name: Python
   logo: python
   url: 'https://www.python.org/'
   color: '#3C78A9'
   projects:
-    - url: 'https://github.com/galaxydeve/knapsack-algorithm-python'
+    - url: 'https://github.com/CodeHole7/knapsack-algorithm-python'

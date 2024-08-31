@@ -22,7 +22,7 @@ jobs:
           filename: assets/metrics/sponsors.svg
           committer_message: "📊 Updates metrics - sponsors"
           # Options
-          user: galaxydeve
+          user: CodeHole7
           template: classic
           base: ""
           config_timezone: Europe/London

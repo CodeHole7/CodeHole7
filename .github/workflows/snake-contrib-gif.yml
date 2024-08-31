@@ -48,7 +48,7 @@ jobs:
       - uses: Platane/snk@main
         id: snake-gif
         with:
-          github_user_name: galaxydeve
+          github_user_name: CodeHole7
           outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}

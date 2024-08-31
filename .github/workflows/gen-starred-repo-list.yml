@@ -23,7 +23,7 @@ jobs:
       - name: Commit files
         run: |
           git config --local user.email "devphs513@gmail.com"
-          git config --local user.name "galaxydeve"
+          git config --local user.name "CodeHole7"
           git add .
           git commit -m ":star: Updates Starred Repo List"
 

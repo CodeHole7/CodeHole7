@@ -21,7 +21,7 @@ Total starred repositories: `14`
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. \[*MIT License*\] (⭐️87976)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. \[*MIT License*\] (⭐️88894)
 
 ## HTML
 
@@ -33,8 +33,8 @@ Total starred repositories: `14`
   - [CodeHole7/3D-sofa-configurator](https://github.com/CodeHole7/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️20)
   - [CodeHole7/adyen-payment-encryption](https://github.com/CodeHole7/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [CodeHole7/company-portfolio-template](https://github.com/CodeHole7/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
-  - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️211)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2556)
+  - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️212)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2558)
 
 ## Ruby
 

@@ -21,20 +21,20 @@ Total starred repositories: `14`
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. \[*MIT License*\] (⭐️88894)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. \[*MIT License*\] (⭐️89811)
 
 ## HTML
 
   - [CodeHole7/carom-simulator-dist](https://github.com/CodeHole7/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️10)
-  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️213)
+  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️215)
 
 ## JavaScript
 
   - [CodeHole7/3D-sofa-configurator](https://github.com/CodeHole7/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️20)
   - [CodeHole7/adyen-payment-encryption](https://github.com/CodeHole7/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [CodeHole7/company-portfolio-template](https://github.com/CodeHole7/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
-  - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️212)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2558)
+  - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️213)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2553)
 
 ## Ruby
 
@@ -43,7 +43,7 @@ Total starred repositories: `14`
 ## TypeScript
 
   - [CodeHole7/Igcy-official](https://github.com/CodeHole7/Igcy-official) - React Native project for social app (⭐️1)
-  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Official monday.com UI resources for application development in React.js (⭐️418)
+  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Official monday.com UI resources for application development in React.js (⭐️419)
 
 ## Vue
 

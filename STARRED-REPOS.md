@@ -1,15 +1,17 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `14`
+Total starred repositories: `18`
 ## Contents
 
   - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
   - [JavaScript](#javascript)
+  - [PHP](#php)
   - [Ruby](#ruby)
   - [TypeScript](#typescript)
+  - [Unknown](#unknown)
   - [Vue](#vue)
 
 
@@ -17,24 +19,28 @@ Total starred repositories: `14`
 ## Dart
 
   - [CodeHole7/flutter_inappwebview](https://github.com/CodeHole7/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. \[*Apache License 2.0*\] (⭐️1)
-  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️195)
+  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️196)
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. \[*MIT License*\] (⭐️92793)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. \[*MIT License*\] (⭐️93652)
 
 ## HTML
 
   - [CodeHole7/carom-simulator-dist](https://github.com/CodeHole7/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️10)
-  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️224)
+  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️226)
 
 ## JavaScript
 
-  - [CodeHole7/3D-sofa-configurator](https://github.com/CodeHole7/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️21)
+  - [CodeHole7/3D-sofa-configurator](https://github.com/CodeHole7/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️22)
   - [CodeHole7/adyen-payment-encryption](https://github.com/CodeHole7/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [CodeHole7/company-portfolio-template](https://github.com/CodeHole7/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
   - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️216)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2561)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2563)
+
+## PHP
+
+  - [etherdevpro/PHP_Tutorial](https://github.com/etherdevpro/PHP_Tutorial) -  (⭐️2)
 
 ## Ruby
 
@@ -43,7 +49,13 @@ Total starred repositories: `14`
 ## TypeScript
 
   - [CodeHole7/Igcy-official](https://github.com/CodeHole7/Igcy-official) - React Native project for social app (⭐️1)
-  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Official monday.com UI resources for application development in React.js (⭐️428)
+  - [etherdevpro/developer-roadmap](https://github.com/etherdevpro/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️1)
+  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Official monday.com UI resources for application development in React.js (⭐️433)
+
+## Unknown
+
+  - [etherdevpro/etherdevpro](https://github.com/etherdevpro/etherdevpro) -  (⭐️3)
+  - [etherdevpro/Vue_Tutorial](https://github.com/etherdevpro/Vue_Tutorial) -  (⭐️1)
 
 ## Vue
 

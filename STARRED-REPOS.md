@@ -23,12 +23,12 @@ Total starred repositories: `18`
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models. \[*MIT License*\] (⭐️107908)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models. \[*MIT License*\] (⭐️109475)
 
 ## HTML
 
   - [CodeHole7/carom-simulator-dist](https://github.com/CodeHole7/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️10)
-  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️253)
+  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️254)
 
 ## JavaScript
 
@@ -50,7 +50,7 @@ Total starred repositories: `18`
 
   - [CodeHole7/Igcy-official](https://github.com/CodeHole7/Igcy-official) - React Native project for social app (⭐️1)
   - [etherdevpro/developer-roadmap](https://github.com/etherdevpro/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️1)
-  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Official monday.com UI resources for application development in React.js (⭐️467)
+  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Official monday.com UI resources for application development in React.js (⭐️468)
 
 ## Unknown
 

@@ -19,16 +19,16 @@ Total starred repositories: `18`
 ## Dart
 
   - [CodeHole7/flutter_inappwebview](https://github.com/CodeHole7/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. \[*Apache License 2.0*\] (⭐️1)
-  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️207)
+  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️208)
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. \[*MIT License*\] (⭐️115250)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. \[*MIT License*\] (⭐️121013)
 
 ## HTML
 
   - [CodeHole7/carom-simulator-dist](https://github.com/CodeHole7/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️10)
-  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️257)
+  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️258)
 
 ## JavaScript
 
@@ -36,7 +36,7 @@ Total starred repositories: `18`
   - [CodeHole7/adyen-payment-encryption](https://github.com/CodeHole7/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [CodeHole7/company-portfolio-template](https://github.com/CodeHole7/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
   - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️242)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2588)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2589)
 
 ## PHP
 

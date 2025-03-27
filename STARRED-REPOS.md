@@ -23,20 +23,20 @@ Total starred repositories: `18`
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. \[*MIT License*\] (⭐️133979)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. \[*MIT License*\] (⭐️134998)
 
 ## HTML
 
   - [CodeHole7/carom-simulator-dist](https://github.com/CodeHole7/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️10)
-  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️265)
+  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️266)
 
 ## JavaScript
 
   - [CodeHole7/3D-sofa-configurator](https://github.com/CodeHole7/3D-sofa-configurator) - :muscle: design 3d sofa, calculate total price at e-commerce site for sofa seller (⭐️22)
   - [CodeHole7/adyen-payment-encryption](https://github.com/CodeHole7/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [CodeHole7/company-portfolio-template](https://github.com/CodeHole7/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
-  - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️253)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2593)
+  - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️254)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2595)
 
 ## PHP
 

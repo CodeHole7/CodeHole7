@@ -19,16 +19,16 @@ Total starred repositories: `18`
 ## Dart
 
   - [CodeHole7/flutter_inappwebview](https://github.com/CodeHole7/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. \[*Apache License 2.0*\] (⭐️1)
-  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️216)
+  - [mahmudahsan/flutter](https://github.com/mahmudahsan/flutter) - All of my open source flutter and dart projects, tutorials are published here. \[*MIT License*\] (⭐️217)
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. \[*MIT License*\] (⭐️160233)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models. \[*MIT License*\] (⭐️161051)
 
 ## HTML
 
   - [CodeHole7/carom-simulator-dist](https://github.com/CodeHole7/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️12)
-  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️417)
+  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️419)
 
 ## JavaScript
 
@@ -50,7 +50,7 @@ Total starred repositories: `18`
 
   - [CodeHole7/Igcy-official](https://github.com/CodeHole7/Igcy-official) - React Native project for social app (⭐️1)
   - [etherdevpro/developer-roadmap](https://github.com/etherdevpro/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️1)
-  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js (⭐️594)
+  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js (⭐️598)
 
 ## Unknown
 

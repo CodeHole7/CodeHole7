@@ -23,7 +23,7 @@ Total starred repositories: `18`
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. \[*MIT License*\] (⭐️171396)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. \[*MIT License*\] (⭐️171921)
 
 ## HTML
 
@@ -50,7 +50,7 @@ Total starred repositories: `18`
 
   - [CodeHole7/Igcy-official](https://github.com/CodeHole7/Igcy-official) - React Native project for social app (⭐️1)
   - [etherdevpro/developer-roadmap](https://github.com/etherdevpro/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️1)
-  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js (⭐️644)
+  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js (⭐️645)
 
 ## Unknown
 

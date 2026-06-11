@@ -23,12 +23,12 @@ Total starred repositories: `18`
 
 ## Go
 
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. \[*MIT License*\] (⭐️173175)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. \[*MIT License*\] (⭐️173886)
 
 ## HTML
 
   - [CodeHole7/carom-simulator-dist](https://github.com/CodeHole7/carom-simulator-dist) - 🎱🤞 3D Carom Billiard Simulator  (⭐️12)
-  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️449)
+  - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version) (⭐️448)
 
 ## JavaScript
 
@@ -36,7 +36,7 @@ Total starred repositories: `18`
   - [CodeHole7/adyen-payment-encryption](https://github.com/CodeHole7/adyen-payment-encryption) -  \[*MIT License*\] (⭐️3)
   - [CodeHole7/company-portfolio-template](https://github.com/CodeHole7/company-portfolio-template) -  \[*MIT License*\] (⭐️1)
   - [CodeHole7/fabricjs-image-editor-origin](https://github.com/CodeHole7/fabricjs-image-editor-origin) - javascript image editor based on fabric.js \[*MIT License*\] (⭐️291)
-  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2613)
+  - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.) \[*MIT License*\] (⭐️2612)
 
 ## PHP
 
@@ -50,7 +50,7 @@ Total starred repositories: `18`
 
   - [CodeHole7/Igcy-official](https://github.com/CodeHole7/Igcy-official) - React Native project for social app (⭐️1)
   - [etherdevpro/developer-roadmap](https://github.com/etherdevpro/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️1)
-  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js (⭐️650)
+  - [mondaycom/vibe](https://github.com/mondaycom/vibe) - 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js (⭐️653)
 
 ## Unknown
 

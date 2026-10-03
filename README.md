@@ -133,22 +133,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 <p align="center">
   <br>
-  <a href="https://signal.me/#eu/KLjoNvLjbEEaZux20AOSujoNKRSSQ4V4_yCrBb3qh35EeYj9UjdMYZXAuQbqZAzA" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/signal.png"/></code>
-  </a>
-  <a href="https://join.skype.com/invite/vK5x86V7SlqU" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/skype.png"/></code>
-  </a>
-  <a href="https://t.me/GalaxyDev1993" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/telegram.png"/></code>
-  </a>
-  <a href="https://discordapp.com/users/733420412146286642" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/discord.png"/></code>
-  </a>
-  <a href="mailto:devphs513@hotmail.com" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/email.png"/></code>
-  </a>
-  <a href="mailto:devphs513@gmail.com" target="_blank" style='margin: 30px 10px;'>
+  <a href="mailto:bryan.monroe011@gmail.com" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="assets/icons/gmail.png"/></code>
   </a>
 </p>
